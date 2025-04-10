@@ -106,7 +106,3 @@ For complete details, please see the [AI Tools Usage Report](./AI-Tools-Usage.md
 
 A 10–15 minute video walkthrough covers the project features, folder structure, and thought process during development.  
 [View Video Walkthrough](https://yourvideolink.com)
-
-## License
-
-[MIT](LICENSE)
