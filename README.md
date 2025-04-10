@@ -88,8 +88,8 @@ It checks for duplicate job entries (company + role, case-insensitive).
 - **Backend:** Deployed on Vercel (or Railway) using the provided deployment scripts. Ensure that the `MONGO_URI` is configured in the environment variables.
 - **Frontend:** Deployed on Vercel. Update the `.env` file with the API base URL.
 - **Live Links:**
-  - Backend: [https://demo-nu-indol.vercel.app](https://your-backend.vercel.app)
-  - Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
+  - Backend: [https://demo-nu-indol.vercel.app](https://demo-nu-indol.vercel.app)
+  - Frontend: [https://cuvette-red.vercel.app](https://cuvette-red.vercel.app)
 
 ## AI Tools & LLMs
 
